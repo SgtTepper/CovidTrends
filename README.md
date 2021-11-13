@@ -1,2 +1,31 @@
 # CovidTrends
-A tool to inspect correlations between Google trends data and Covid19 data in USA, hopefully to support and inspire further research
+CovidTrends is a small tool i've created to inspect correlations between Google trends data and Covid-19 data in U.S, hopefully to support and inspire further research
+
+# HowTo
+Simply run the notebook, you will be prompted to choose dates:
+
+![DatePicker](/HowtoA.jpg)
+
+And also choose a search term:
+
+![TermPicker](/HowtoB.jpg)
+
+Then you will be able to inspect the results. e.g:
+
+![CorrelationHeatmap](/CorrelationHeatmap.jpg)
+
+![TexasLossOfSmell](/TexasLossOfSmell.jpg)
+
+![CaliforniaPeriodAfterVaccine](/CaliforniaPeriodAfterVaccine.jpg)
+
+## Credits
+
+* [PyTrends](https://pypi.org/project/pytrends/)
+* [Google Trends](https://trends.google.com/)
+* [Covid-19-data](https://github.com/owid/covid-19-data)
+* [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19)
+
+
+## Contributing
+
+Contributions to the project are welcome, if you have a neat idea feel free to ping me!
