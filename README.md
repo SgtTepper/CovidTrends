@@ -4,11 +4,11 @@ CovidTrends is a small tool i've created to inspect correlations between Google 
 # HowTo
 Simply run the notebook, you will be prompted to choose dates:
 
-![DatePicker](img//HowtoA.jpg)
+![DatePicker](img/HowtoA.jpg)
 
 And also choose a search term:
 
-![TermPicker](/HowtoB.jpg)
+![TermPicker](img/HowtoB.jpg)
 
 Then you will be able to inspect the results. e.g:
 
